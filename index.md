@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## JOURNEY
 
-You can use the [editor on GitHub](https://github.com/Biblioklept/journey/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Pre-requisites
+- A decent internet connection
+- A computer that can run S.T.A.L.K.E.R.: Anomaly
+- [S.T.A.L.K.E.R.: Anomaly](https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151)
+- [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/latest)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Journey Modlist
 
-### Markdown
+[Anomaly Modded EXE Files](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/archive/refs/heads/main.zip)
+[Fixed Vanilla Models & Textures](https://www.moddb.com/mods/stalker-anomaly/addons/fvm)  
+[Dux's Innumerable Character Kit](https://www.moddb.com/mods/stalker-anomaly/addons/dick)  
+[Torch Animation Fixed](https://www.moddb.com/mods/stalker-anomaly/addons/torch-animation-fixed)  
+[Anomaly Mod Configuration Menu](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-mod-configuration-menu)  
+[DLTX'd Persistent MCM Configuration](https://www.moddb.com/mods/stalker-anomaly/addons/dltxs-persistent-mcm-configuration)
+[Glossy Surfaces and Water SSR](https://www.moddb.com/mods/stalker-anomaly/addons/glossy-surfaces-ssr)  
+[Food, Drug and Drinks Animations](https://www.moddb.com/mods/stalker-anomaly/addons/food-drug-and-drinks-animations-reuploaded)  
+[EFT Weapon Reposition Updated](https://www.moddb.com/mods/stalker-anomaly/addons/alternate-aim-sights-for-eft-reposition)  
+[Sights Without Dirt/Clean Sights](https://www.moddb.com/mods/stalker-anomaly/addons/sights-without-dirt-clean-sights)  
+[Camera Reanimation Project - I.N.E.R.T.I.A.](https://www.moddb.com/mods/stalker-anomaly/addons/camera-reanimation-project-inertia)  
+[T.H.A.P. Rework](https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework)  
+[OPFOR ClearHUD and ClearMask - Minimalistic and Immersive HUD](https://www.moddb.com/mods/stalker-anomaly/addons/opfor-clearhud-and-clearmask-minimalistic-and-immersive-hud)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ReShades
+1. Install [ReShade](https://reshade.me/)
+2. Install ReShade into your S.T.A.L.K.E.R.: Anomaly "bin" folder
+3. Install any of these presets into your "bin" folder.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Biblioklept/journey/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[в.о.л.к. ReShade](https://www.moddb.com/mods/stalker-anomaly/addons/reshade)  
+[LUSH - ReShade](https://www.moddb.com/mods/stalker-anomaly/addons/lush-reshade)  
+[Clear Sky ReShade](https://www.moddb.com/mods/stalker-anomaly/addons/clear-sky-reshade)  
+[METRO-STALKER ReShade](https://www.moddb.com/mods/stalker-anomaly/addons/metro-stalker-reshade)  
