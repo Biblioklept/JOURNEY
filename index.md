@@ -14,14 +14,14 @@ The goal of this modlist is to provide a base to build upon with mods of your ow
 - You know how to install mods for STALKER Anomaly relatively well.
 
 ### First, Important, and Final Warning
-***Support will __not__ be given towards people who have modified the modlist further than what's provided within the guide. Although this modlist is designed to give you the essentials for a smooth and relatively fun experience to build on with mods you want to use, I simply cannot and will not provide support for everyone's modlist setups.***
+***Support will NOT be given towards people who have modified the modlist further than what's provided within the guide. Although this modlist is designed to give you the essentials for a smooth and relatively fun experience to build on with mods you want to use, I simply cannot and will not provide support for everyone's modlist setups.***
 
 ### Initial Setup
 To begin, you will need to download the [Anomaly Modded EXE Files](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/raw/main/STALKER-Anomaly-modded-exes.zip) and extract the files into your root STALKER Anomaly game folder.
 
 Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/latest) file to a folder called `JOURNEY`, once done, run the `ModOrganizer.exe` file. Go through the installation, when prompted for the game to manage, search for STALKER Anomaly, and find your root game directory, and select it.
 
-### USER INTERFACE
+### User Interface
 [Anomaly Mod Configuration Menu](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-mod-configuration-menu)  
 [DLTX'd Persistent MCM Configuration](https://www.moddb.com/mods/stalker-anomaly/addons/dltxs-persistent-mcm-configuration)  
 [OPFOR ClearHUD and ClearMask - Minimalistic and Immersive HUD](https://www.moddb.com/mods/stalker-anomaly/addons/opfor-clearhud-and-clearmask-minimalistic-and-immersive-hud)  
