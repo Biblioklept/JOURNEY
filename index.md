@@ -63,16 +63,16 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 [Companions Deactivate Headlamps When In Stealth](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-companions-deactivate-headlamps-when-in-stealth)  
 [475 New Stash Locations](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-475-new-stash-locations)  
 [Bugged Stashes Fix](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-bugged-stashes-fix)  
-### Azazel Mods
+### Azazel Mods [OPTIONAL]
 [Azazel Tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/azazel-tweaks)  
-### Warfare Mods
+### Warfare Mods [OPTIONAL]
 [Warfare ALife Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/warfare-alife-overhaul)  
 [Hawkie's Warfare Mechanic Fix](https://www.moddb.com/mods/stalker-anomaly/addons/hawkies-warfare-mechanic-fix)  
 
 ### Final Steps/Patches
 [OPFOR HUD + Quick Companion Teleport Patch](https://github.com/Biblioklept/journey/blob/main/mod_files/OPFOR%20HUD%20+%20Quick%20Companion%20Teleport%20Patch.7z)
 
-### ReShade
+### ReShade [OPTIONAL]
 1. Install [ReShade](https://reshade.me/)
 2. Install ReShade into your S.T.A.L.K.E.R.: Anomaly "bin" folder
 3. Install any of these presets into your "bin" folder.
