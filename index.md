@@ -14,7 +14,7 @@ The goal of this modlist is to provide a base to build upon with mods of your ow
 - You know how to install mods for STALKER Anomaly relatively well.
 
 ### First, Important, and Final Warning
-***Support will NOT be given towards people who have modified the modlist further than what's provided within the guide. Although this modlist is designed to give you the essentials for a smooth and relatively fun experience to build on with mods you want to use, I simply cannot and will not provide support for everyone's modlist setups.***
+**Support will NOT be given towards people who have modified the modlist further than what's provided within the guide. Although this modlist is designed to give you the essentials for a smooth and relatively fun experience to build on with mods you want to use, I simply cannot and will not provide support for everyone's modlist setups.**
 
 ### Initial Setup
 To begin, you will need to download the [Anomaly Modded EXE Files](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/raw/main/STALKER-Anomaly-modded-exes.zip) and extract the files into your root STALKER Anomaly game folder.
@@ -50,6 +50,10 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 ### Tweaks
 [Nitpicker's Modpack](https://www.moddb.com/mods/stalker-anomaly/addons/nitpickermodpack)  
 [Modular Miscellaneous Tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/modular-miscellaneous-tweaks)  
+[Luna's Master Disassembly List and Parts Fix](https://www.moddb.com/mods/stalker-anomaly/addons/lunas-master-disassembly-list-parts-fix)  
+[Crafting With Multi-Use Items Fix](https://www.moddb.com/mods/stalker-anomaly/addons/fixed-crafting-with-multi-use-items)  
+[UNISG Hollow Boundaries Fixes](https://www.moddb.com/mods/stalker-anomaly/addons/unisg-hollow-boundaries-fixes-v110)  
+[Fixed Player Thermal Resistance](https://www.moddb.com/mods/stalker-anomaly/addons/fixed-player-thermal-resistance)  
 [He Is With Me](https://www.moddb.com/mods/stalker-anomaly/addons/he-is-with-me)  
 [Quick Companion Teleport](https://www.moddb.com/mods/stalker-anomaly/addons/quick-companion-teleport-151)  
 [Rats Are Not Enemies](https://www.moddb.com/mods/stalker-anomaly/addons/rats-are-not-enemies)  
@@ -59,6 +63,12 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 [Companions Deactivate Headlamps When In Stealth](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-companions-deactivate-headlamps-when-in-stealth)  
 [475 New Stash Locations](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-475-new-stash-locations)  
 [Bugged Stashes Fix](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-bugged-stashes-fix)  
+### Azazel Mods
+[Azazel Tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/azazel-tweaks)  
+### Warfare Mods
+[Warfare ALife Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/warfare-alife-overhaul)  
+[Hawkie's Warfare Mechanic Fix](https://www.moddb.com/mods/stalker-anomaly/addons/hawkies-warfare-mechanic-fix)  
+
 ### Final Steps/Patches
 [OPFOR HUD + Quick Companion Teleport Patch](https://github.com/Biblioklept/journey/blob/main/mod_files/OPFOR%20HUD%20+%20Quick%20Companion%20Teleport%20Patch.7z)
 
