@@ -5,11 +5,13 @@ The goal of this modlist is to provide a base to build upon with mods of your ow
 
 ### Pre-requisites
 - A decent internet connection
-- A computer that can run S.T.A.L.K.E.R.: Anomaly
+- A computer that can run S.T.A.L.K.E.R.: Anomaly, in the words of seargedp:  
+> "I recommend at least 16 GB of RAM, a recent quad-core CPU and a graphics card with at least 4 GB of VRAM, ideally at least something as powerful as a GTX 970 or higher. It's also only tested on Windows 10 and requires a 64 bit version of Windows."  
 - [S.T.A.L.K.E.R.: Anomaly](https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151)
 - [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/latest)
 
 ### Assumptions
+- You know how ModDB works and how to download mods off of it.
 - You have a decent understanding of how to work Mod Organizer 2.
 - You know how to install mods for STALKER Anomaly relatively well.
 
