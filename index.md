@@ -3,20 +3,85 @@
 ### Goal
 The goal of this modlist is to provide a base to build upon with mods of your own choosing, whilst providing a perfectly good experience on its own, should you choose to not go any further. Initially a remake of EXPIDITION with less crashes, more vanilla assets, less overkill ReShades, and modularity, it's quickly become it's own modlist.
 
+### First, Important, and Final Warning Before Starting
+***Support will NOT be given towards people who have modified the modlist further than what's provided within the guide. Although this modlist is designed to give you the essentials for a smooth and relatively fun experience to build on with mods you want to use, I simply cannot and will not provide support for everyone's modlist setups.***
+
 ### Pre-requisites
 - A decent internet connection
 - A computer that can run S.T.A.L.K.E.R.: Anomaly, in the words of seargedp:  
 > "I recommend at least 16 GB of RAM, a recent quad-core CPU and a graphics card with at least 4 GB of VRAM, ideally at least something as powerful as a GTX 970 or higher. It's also only tested on Windows 10 and requires a 64 bit version of Windows."  
 - [S.T.A.L.K.E.R.: Anomaly](https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151)
-- [Mod Organizer 2](https://github.com/ModOrganizer2/modorganizer/releases/latest)
 
-### Assumptions
-- You know how ModDB works and how to download mods off of it.
-- You have a decent understanding of how to work Mod Organizer 2.
-- You know how to install mods for STALKER Anomaly relatively well.
+## Mod Organizer 2 Setup
 
-### First, Important, and Final Warning
-**Support will NOT be given towards people who have modified the modlist further than what's provided within the guide. Although this modlist is designed to give you the essentials for a smooth and relatively fun experience to build on with mods you want to use, I simply cannot and will not provide support for everyone's modlist setups.**
+***This section was completely ripped off and converted from [Viva New Vegas](https://vivanewvegas.github.io/mo2.html), all credits to Qolore07***.
+
+### Installing Mod Organizer 2
+
+1.  Download the `Mod Organizer 2` latest file from [here](https://github.com/ModOrganizer2/modorganizer/releases/latest)
+2.  Once the download has finished, run the installer
+3.  When prompted to choose an install location, pick any location outside of any default Window folders (like `Program Files x86`) and outside of the game's `Root` folder (the installer's default location will work)
+4.  Click `Next` until the installer finishes
+
+### Configuring Mod Organizer 2
+
+### Initial Setup
+
+1.  Run `ModOrganizer.exe`
+2.  You will be prompted with a pop-up called `Creating an instance`, in which you should just select `Next`
+3.  On the next page, select `Create a portable instance`
+5.  On the next page, select `STALKER Anomaly`
+6.  On the next page, keep the `Location` file path default
+
+> If you have MO2 installed on an SSD or a HDD with little space, you can check the **Show advanced options** box and change the **Downloads** file path to a different drive with more space. This will not effect download/game performance, and the downloads can be deleted after the mods have been installed.
+
+6.  On the last page, select `Finish`
+7.  MO2 will launch and prompt you with a pop-up called `Show tutorial?``, in which you should select `No`
+8.  From the pop-up called `Register?`, select `Yes`
+
+- This pop-up will not show up if you have already registered a different instance of MO2
+
+### Configuring Settings
+
+1.  Select the `X` in the bottom right of MO2 to close the log window
+2.  Select the `Settings` button at the top of MO2 to open the settings
+3.  In the **Theme** tab, you can select a different style from the drop-down menu at the top
+
+- I use the `1809 Dark Mode` theme
+
+4.  In the `Nexus` tab, select `Connect to Nexus`
+
+- This option will not show up if you have already connected your Nexus account on a different MO2 instance
+
+5.  MO2 will open your browser and prompt you to authorize the connection
+6.  Once you authorize it, you can close out of your browser and of the MO2 settings
+7.  Allow MO2 to restart if it asks
+
+### Creating Profiles
+
+Mod Organizer 2's "Profiles" feature allows for easy switching between different mod configurations. In this step, we will create a profile for the guide while keeping a strictly-vanilla profile for testing/de-bugging. Profiles can be selected via the drop-down menu above the left pane.
+
+1.  Select the `Profiles` button at the top of MO2 to open the profiles menu
+2.  Select the `Default` profile, then select `Copy`
+3.  Name the new profile `JOURNEY`
+4.  Select the `JOURNEY` profile and make sure both `Use profile-specific Game INI Files` is checked at the bottom
+
+> You may get a pop-up called `INI file is read-only` when attempting to make/select a new profile. If so then select `Remember my choice` from the drop-down at the bottom then click `Clear the read-only flag`
+
+5.  Exit out of the profiles menu and select the `JOURNEY` profile from the drop-down above the left pane
+
+### Mod Installation Advice
+
+> If you are completely unfamiliar with Mod Organizer 2, I recommended watching [GamerPoet's video](https://www.youtube.com/watch?v=7v0wWVuOagA) about mod installation in MO2. As it was made for Skyrim, it has some information that does not apply to New Vegas, such as the Steam Workshop part. However, the rest of the information about downloading/installing mods from Nexus applies to all Bethesda games.
+
+1.  Click the `DOWNLOAD NOW!` button (or whatever the download button is for the respective site)
+
+> I recommend moving the mod files to your JOURNEY MO2 `downloads` folder.
+
+2.  Once the download has finished, click the `Archive` button at the top of MO2
+3.  From the new window, navigate to where the file was downloaded to and double-click it
+
+When downloading multiple files from the same page, you will be prompted with a box in Mod Organizer 2 with the options `Merge`, `Replace`, and `Rename`. You should select the `Rename` option and rename the mod to its respective file name. This will make MO2 install them as separate files for easier management. If you are updating from an old version of a mod, you should select `Replace`. This will delete all the files from the old version of the mod and replace them,with the ones from the new version. This is the only time you should use the `Replace` option, otherwise always use `Rename`.
 
 ## Modlist Setup
 
