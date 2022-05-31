@@ -32,7 +32,6 @@ The goal of this modlist is to provide a base to build upon with mods of your ow
 
 1. Download [STALKER Anomaly 1.5.1](https://www.moddb.com/mods/stalker-anomaly/downloads/stalker-anomaly-151)
 2. Extract it to any location outside of any default Window folders (like `Program Files x86`)
-3. Select **Next** then wait for the install to finish
 
 ## Post-Installation
 
