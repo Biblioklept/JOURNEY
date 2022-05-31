@@ -28,6 +28,7 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 [DLTX'd Persistent MCM Configuration](https://www.moddb.com/mods/stalker-anomaly/addons/dltxs-persistent-mcm-configuration)  
 [Hunger, Thirst, Sleep UI Improved](https://www.moddb.com/mods/stalker-anomaly/addons/patch-hunger-thirst-sleepiness-bars)  
 [OPFOR ClearHUD and ClearMask - Minimalistic and Immersive HUD](https://www.moddb.com/mods/stalker-anomaly/addons/opfor-clearhud-and-clearmask-minimalistic-and-immersive-hud)  
+[Crook's Faction Identification UI](https://www.moddb.com/mods/stalker-anomaly/addons/crooks-faction-identification-ui)  
 [Instant Tooltip](https://www.moddb.com/mods/stalker-anomaly/addons/instant-tooltip-for-rc18-23)  
 [Cost In Tooltip](https://www.moddb.com/mods/stalker-anomaly/addons/cost-in-tool-tip-u4h8-and-rc18-23)  
 [Battery Warning](https://www.moddb.com/mods/stalker-anomaly/addons/batterywarning)
