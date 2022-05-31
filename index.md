@@ -14,7 +14,7 @@ The goal of this modlist is to provide a base to build upon with mods of your ow
 
 ## Mod Organizer 2 Setup
 
-***This section was completely ripped off and converted from [Viva New Vegas](https://vivanewvegas.github.io/mo2.html), all credits to Qolore07***.
+***This section was completely ripped off and converted from [Viva New Vegas](https://vivanewvegas.github.io/mo2.html). All credits to Qolore07***.
 
 ### Installing Mod Organizer 2
 
@@ -76,7 +76,7 @@ Mod Organizer 2's "Profiles" feature allows for easy switching between different
 
 1.  Click the `DOWNLOAD NOW!` button (or whatever the download button is for the respective site)
 
-> I recommend moving the mod files to your JOURNEY MO2 `downloads` folder.
+> I recommend moving the downloaded files to your JOURNEY MO2 `downloads` (i.e. `JOURNEY\downloads`) folder.
 
 2.  Once the download has finished, click the `Archive` button at the top of MO2
 3.  From the new window, navigate to where the file was downloaded to and double-click it
