@@ -37,7 +37,7 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 
 ### Fixed Vanilla Visuals
 [Glossy Surfaces and Water SSR](https://www.moddb.com/mods/stalker-anomaly/addons/glossy-surfaces-ssr)  
-![Glossy Surfaces and Water SSR Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/GSSSRTUT.png)
+![Glossy Surfaces and Water SSR Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/GSSSRTUT.png)  
 [Fixed Vanilla Models & Textures](https://www.moddb.com/mods/stalker-anomaly/addons/fvm)  
 [Dux's Innumerable Character Kit](https://www.moddb.com/mods/stalker-anomaly/addons/dick)  
 ![Dux's Innumerable Character Kit Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/DICKTUT1.png)  
