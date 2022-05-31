@@ -63,7 +63,6 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 ### Tweaks
 [Nitpicker's Modpack](https://www.moddb.com/mods/stalker-anomaly/addons/nitpickermodpack)  
 [Modular Miscellaneous Tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/modular-miscellaneous-tweaks)  
-[Luna's Master Disassembly List and Parts Fix](https://www.moddb.com/mods/stalker-anomaly/addons/lunas-master-disassembly-list-parts-fix)  
 [Crafting With Multi-Use Items Fix](https://www.moddb.com/mods/stalker-anomaly/addons/fixed-crafting-with-multi-use-items)  
 [UNISG Hollow Boundaries Fixes](https://www.moddb.com/mods/stalker-anomaly/addons/unisg-hollow-boundaries-fixes-v110)  
 [Fixed Player Thermal Resistance](https://www.moddb.com/mods/stalker-anomaly/addons/fixed-player-thermal-resistance)  
