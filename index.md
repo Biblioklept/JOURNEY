@@ -1,7 +1,7 @@
 ![JOURNEY](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/branding/journey.png)
 
 ### Goal
-The goal of this modlist is to provide a base to build upon with mods of your own choosing, though can be played on its own with it
+The goal of this modlist is to provide a base to build upon with mods of your own choosing, whilst providing a perfectly good experience on its own, should you choose to not go any further. Initially a remake of EXPIDITION with less crashes, more vanilla assets, less overkill ReShades, and modularity, it's quickly become it's own modlist.
 
 ### Pre-requisites
 - A decent internet connection
@@ -15,6 +15,8 @@ The goal of this modlist is to provide a base to build upon with mods of your ow
 
 ### First, Important, and Final Warning
 **Support will NOT be given towards people who have modified the modlist further than what's provided within the guide. Although this modlist is designed to give you the essentials for a smooth and relatively fun experience to build on with mods you want to use, I simply cannot and will not provide support for everyone's modlist setups.**
+
+## Modlist Setup
 
 ### Initial Setup
 To begin, you will need to download the [Anomaly Modded EXE Files](https://github.com/themrdemonized/STALKER-Anomaly-modded-exes/raw/main/STALKER-Anomaly-modded-exes.zip) and extract the files into your root STALKER Anomaly game folder.
@@ -30,10 +32,11 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 [Cost In Tooltip](https://www.moddb.com/mods/stalker-anomaly/addons/cost-in-tool-tip-u4h8-and-rc18-23)  
 [Battery Warning](https://www.moddb.com/mods/stalker-anomaly/addons/batterywarning)
 
-### Fixed Vanilla Visuals 
+### Fixed Vanilla Visuals
 [Glossy Surfaces and Water SSR](https://www.moddb.com/mods/stalker-anomaly/addons/glossy-surfaces-ssr)  
 [Fixed Vanilla Models & Textures](https://www.moddb.com/mods/stalker-anomaly/addons/fvm)  
 [Dux's Innumerable Character Kit](https://www.moddb.com/mods/stalker-anomaly/addons/dick)  
+- Alternative (Do **NOT** use `Fixed Vanilla Models & Textures` and `Dux's Innumerable Character Kit` if using): [Anomaly HD Models](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon) OR [Anomaly HD MOdels Lite](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon-151-lite), and be sure to **grab the latest fixes in the description of the mod**.
 [Torch Animation Fixed](https://www.moddb.com/mods/stalker-anomaly/addons/torch-animation-fixed)  
 [MP-133 Fix](https://www.moddb.com/mods/stalker-anomaly/addons/mp-133-fix)
 
@@ -70,16 +73,18 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 [475 New Stash Locations](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-475-new-stash-locations)  
 [Bugged Stashes Fix](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-bugged-stashes-fix)
 
+### Final Steps/Patches
+[OPFOR HUD + Quick Companion Teleport Patch](https://github.com/Biblioklept/journey/blob/main/mod_files/OPFOR%20HUD%20+%20Quick%20Companion%20Teleport%20Patch.7z)  
+Finally, if you want some sort of indicator as to how your modlist should be ordered, [this should do nicely](https://loadorderlibrary.com/lists/journey-modlist). Simply Expand the `modlist.txt` file.
+
+## Optional Mods
+
 ### Azazel Mods [OPTIONAL]
 [Azazel Tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/azazel-tweaks)
 
 ### Warfare Mods [OPTIONAL]
 [Warfare ALife Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/warfare-alife-overhaul)  
 [Hawkie's Warfare Mechanic Fix](https://www.moddb.com/mods/stalker-anomaly/addons/hawkies-warfare-mechanic-fix)
-
-### Final Steps/Patches
-[OPFOR HUD + Quick Companion Teleport Patch](https://github.com/Biblioklept/journey/blob/main/mod_files/OPFOR%20HUD%20+%20Quick%20Companion%20Teleport%20Patch.7z)  
-Finally, if you want some sort of indicator as to how your modlist should be ordered, [this](https://loadorderlibrary.com/lists/journey-modlist) should do nicely. Simply Expand the `modlist.txt` file.
 
 ### ReShade [OPTIONAL]
 1. Install [ReShade](https://reshade.me/)
