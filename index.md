@@ -79,7 +79,8 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 ### Final Steps/Patches
 [OPFOR HUD + Quick Companion Teleport Patch](https://github.com/Biblioklept/JOURNEY/raw/main/mod_files/OPFOR%20HUD%20%2B%20Quick%20Companion%20Teleport%20Patch.7z)  
 Open your `axr_options.ltx` file in `gamedata\configs\` and find the `[mcm]` tab, paste and replace the contents with the contents of [this text file](https://raw.githubusercontent.com/Biblioklept/JOURNEY/main/mod_files/mcmsettings.txt).  
-Finally, if you want some sort of indicator as to how your modlist should be ordered, [this should do nicely](https://loadorderlibrary.com/lists/journey-modlist). Simply expand the `modlist.txt` tab. Note: *the modlist.txt file features both the FVM + DICK mod combination and the HD Models + HD Models Fixes + THAP HD Models Patch mod combination. Do not have both of these turned on, they are only both on for demonstration's sake.*
+Finally, if you want some sort of indicator as to how your modlist should be ordered, [this should do nicely](https://loadorderlibrary.com/lists/journey-modlist). Simply expand the `modlist.txt` tab.  
+**NOTE**: *The modlist.txt file features both the `FVM + DICK` mod combination and the `HD Models + HD Models Fixes + THAP HD Models Patch` mod combination. Do not have both of these turned on, they are only both on for demonstration's sake.*
 
 ## Optional Mods
 
