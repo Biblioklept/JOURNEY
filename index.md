@@ -34,23 +34,23 @@ The goal of this modlist is to provide a base to build upon with mods of your ow
 2. Extract it to any location outside of any default Window folders (like `Program Files x86`)
 3. Select **Next** then wait for the install to finish
 
-### Post-Installation
+## Post-Installation
 
-Key Terminology
+### Key Terminology
 
 Now that the game is installed, there are two folders from it that will be referred to in the guide often:
 
 - **Root** folder: Where the game is installed
 
-- Example: `D:\STALKER Anomaly\`
+> Example: `D:\STALKER Anomaly\`
 
 - **gamedata** folder: Where all of the game's assets are located
 
-- Example: `D:\STALKER Anomaly\gamedata`
+> Example: `D:\STALKER Anomaly\gamedata`
 
 - **bin** folder: Where the executables and engine modifications are installed
 
-- Example: `D:\STALKER Anomaly\bin`
+> Example: `D:\STALKER Anomaly\bin`
 
 ### Quickly Running The Game
 
