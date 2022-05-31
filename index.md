@@ -1,4 +1,4 @@
-## JOURNEY
+![JOURNEY](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/branding/journey.png)
 
 ### Goal
 The goal of this modlist is to provide a base to build upon with mods of your own choosing, though can be played on its own with it
