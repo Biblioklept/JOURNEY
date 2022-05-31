@@ -1,4 +1,4 @@
-![JOURNEY](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/branding/journey.png)
+![JOURNEY](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/branding/journey2.png)
 
 # About The Guide
 
