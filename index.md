@@ -37,7 +37,7 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 [Glossy Surfaces and Water SSR](https://www.moddb.com/mods/stalker-anomaly/addons/glossy-surfaces-ssr)  
 [Fixed Vanilla Models & Textures](https://www.moddb.com/mods/stalker-anomaly/addons/fvm)  
 [Dux's Innumerable Character Kit](https://www.moddb.com/mods/stalker-anomaly/addons/dick)  
-- Alternative (Do **NOT** use `Fixed Vanilla Models & Textures` and `Dux's Innumerable Character Kit` if using): [Anomaly HD Models](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon) OR [Anomaly HD MOdels Lite](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon-151-lite), and be sure to **grab the latest fixes in the description of the mod**.
+- Alternative (Do **NOT** use `Fixed Vanilla Models & Textures` and `Dux's Innumerable Character Kit` if using): [Anomaly HD Models](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon) OR [Anomaly HD MOdels Lite](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon-151-lite), and be sure to **grab the latest fixes in the description of the mod**.  
 [Torch Animation Fixed](https://www.moddb.com/mods/stalker-anomaly/addons/torch-animation-fixed)  
 [MP-133 Fix](https://www.moddb.com/mods/stalker-anomaly/addons/mp-133-fix)
 
@@ -76,7 +76,8 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 
 ### Final Steps/Patches
 [OPFOR HUD + Quick Companion Teleport Patch](https://github.com/Biblioklept/journey/blob/main/mod_files/OPFOR%20HUD%20+%20Quick%20Companion%20Teleport%20Patch.7z)  
-Finally, if you want some sort of indicator as to how your modlist should be ordered, [this should do nicely](https://loadorderlibrary.com/lists/journey-modlist). Simply Expand the `modlist.txt` file.
+Open your `axr_options.ltx` file in `gamedata\configs\` and find the `[mcm]` tab, paste and replace the contents with the contents of [this text file](https://raw.githubusercontent.com/Biblioklept/JOURNEY/main/mod_files/mcmsettings.txt).  
+Finally, if you want some sort of indicator as to how your modlist should be ordered, [this should do nicely](https://loadorderlibrary.com/lists/journey-modlist). Simply expand the `modlist.txt` tab.
 
 ## Optional Mods
 
@@ -88,9 +89,9 @@ Finally, if you want some sort of indicator as to how your modlist should be ord
 [Hawkie's Warfare Mechanic Fix](https://www.moddb.com/mods/stalker-anomaly/addons/hawkies-warfare-mechanic-fix)
 
 ### ReShade [OPTIONAL]
-1. Install [ReShade](https://reshade.me/)
-2. Install ReShade into your S.T.A.L.K.E.R.: Anomaly "bin" folder
-3. Install any of these presets into your "bin" folder.
+1. Download [ReShade](https://reshade.me/)
+2. Install ReShade by going into your S.T.A.L.K.E.R.: Anomaly `bin` folder and choosing the DX version you use.
+3. Install any of these presets into your `bin` folder.
 
 [в.о.л.к. ReShade](https://www.moddb.com/mods/stalker-anomaly/addons/reshade)  
 [LUSH - ReShade](https://www.moddb.com/mods/stalker-anomaly/addons/lush-reshade)  
