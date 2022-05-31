@@ -37,7 +37,8 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 [Glossy Surfaces and Water SSR](https://www.moddb.com/mods/stalker-anomaly/addons/glossy-surfaces-ssr)  
 [Fixed Vanilla Models & Textures](https://www.moddb.com/mods/stalker-anomaly/addons/fvm)  
 [Dux's Innumerable Character Kit](https://www.moddb.com/mods/stalker-anomaly/addons/dick)  
-- Alternative (Do **NOT** use `Fixed Vanilla Models & Textures` and `Dux's Innumerable Character Kit` if using): [Anomaly HD Models](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon) OR [Anomaly HD MOdels Lite](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon-151-lite), and be sure to **grab the latest fixes in the description of the mod**.  
+- Alternative (Do **NOT** use `Fixed Vanilla Models & Textures` and `Dux's Innumerable Character Kit` if using): [Anomaly HD Models](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon) OR [Anomaly HD Models Lite](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon-151-lite), and be sure to **grab the latest fixes in the description of the mod**.
+
 [Torch Animation Fixed](https://www.moddb.com/mods/stalker-anomaly/addons/torch-animation-fixed)  
 [MP-133 Fix](https://www.moddb.com/mods/stalker-anomaly/addons/mp-133-fix)
 
