@@ -37,8 +37,11 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 
 ### Fixed Vanilla Visuals
 [Glossy Surfaces and Water SSR](https://www.moddb.com/mods/stalker-anomaly/addons/glossy-surfaces-ssr)  
+![Glossy Surfaces and Water SSR Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/GSSSRTUT.png)
 [Fixed Vanilla Models & Textures](https://www.moddb.com/mods/stalker-anomaly/addons/fvm)  
 [Dux's Innumerable Character Kit](https://www.moddb.com/mods/stalker-anomaly/addons/dick)  
+![Dux's Innumerable Character Kit Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/DICKTUT1.png)  
+![Dux's Innumerable Character Kit Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/DICKTUT2.png)  
 - Alternative (Do **NOT** use `Fixed Vanilla Models & Textures` and `Dux's Innumerable Character Kit` if using): [Anomaly HD Models](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon) OR [Anomaly HD Models Lite](https://www.moddb.com/mods/stalker-anomaly/addons/anomaly-hd-models-addon-151-lite), and be sure to **grab the latest fixes in the description of the mod**.
 
 [Torch Animation Fixed](https://www.moddb.com/mods/stalker-anomaly/addons/torch-animation-fixed)  
@@ -47,13 +50,18 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 ### Additional Visuals
 [Camera Reanimation Project - I.N.E.R.T.I.A.](https://www.moddb.com/mods/stalker-anomaly/addons/camera-reanimation-project-inertia)  
 [T.H.A.P. Rework](https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework)  
-[Food, Drug and Drinks Animations](https://www.moddb.com/mods/stalker-anomaly/addons/food-drug-and-drinks-animations-reuploaded)
+![T.H.A.P. Rework Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/THAPTUT.png)  
+[Food, Drug and Drinks Animations](https://www.moddb.com/mods/stalker-anomaly/addons/food-drug-and-drinks-animations-reuploaded)  
+![FDDA Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/FDDATUT.png)
 
 ### Gunplay
 [EFT Weapon Reposition Updated](https://www.moddb.com/mods/stalker-anomaly/addons/alternate-aim-sights-for-eft-reposition)  
+![BAIN Prompt Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/BAINPROMPT1.png)  
+![EFT Weapon Reposition Updated Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/EFTWRTUT.png)  
 [Lowered Sprinting Animations](https://www.moddb.com/mods/stalker-anomaly/addons/lowered-weapon-sprint-animation)
 [Sights Without Dirt/Clean Sights](https://www.moddb.com/mods/stalker-anomaly/addons/sights-without-dirt-clean-sights)  
 [Shader Based 2D Scopes](https://www.moddb.com/mods/stalker-anomaly/addons/shader-based-2d-scopes-151dx11engine-mod)
+![Shader Based 2D Scopes Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/SB2DSTUT.png)
 
 ### Gameplay
 [RF Receiver Hidden Package Sidequests](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-rf-receiver-hidden-package-sidequests)  
@@ -62,13 +70,21 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 
 ### Tweaks
 [Nitpicker's Modpack](https://www.moddb.com/mods/stalker-anomaly/addons/nitpickermodpack)  
+![Nitpicker's Modpack Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/NPMPTUT.png)  
 [Modular Miscellaneous Tweaks](https://www.moddb.com/mods/stalker-anomaly/addons/modular-miscellaneous-tweaks)  
+![Modular Miscellaneous Tweaks Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/MMTTUT.png)  
 [Crafting With Multi-Use Items Fix](https://www.moddb.com/mods/stalker-anomaly/addons/fixed-crafting-with-multi-use-items)  
 [UNISG Hollow Boundaries Fixes](https://www.moddb.com/mods/stalker-anomaly/addons/unisg-hollow-boundaries-fixes-v110)  
+![Crafting With Multi-Use Items Fix Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/CWMUIFTUT1.png)  
+![Crafting With Multi-Use Items Fix Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/CWMUIFTUT2.png)  
+![Crafting With Multi-Use Items Fix Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/CWMUIFTUT3.png)  
 [Fixed Player Thermal Resistance](https://www.moddb.com/mods/stalker-anomaly/addons/fixed-player-thermal-resistance)  
 [He Is With Me](https://www.moddb.com/mods/stalker-anomaly/addons/he-is-with-me)  
 [Quick Companion Teleport](https://www.moddb.com/mods/stalker-anomaly/addons/quick-companion-teleport-151)  
 [Rats Are Not Enemies](https://www.moddb.com/mods/stalker-anomaly/addons/rats-are-not-enemies)  
+![Rats Are Not Enemies Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/RANETUT1.png)  
+![Rats Are Not Enemies Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/RANETUT2.png)  
+![Rats Are Not Enemies Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/RANETUT3.png)  
 [Angry Chimera Growls](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-angry-chimera-growls-v10)  
 [Coordinate Based Safe Zones](https://www.moddb.com/mods/stalker-anomaly/addons/tb-coordinate-based-safe-zones-v1-0)  
 [Fairer Thermal Anomalies](https://www.moddb.com/mods/stalker-anomaly/addons/tbs-fairer-thermal-anomalies-v1-0)  
@@ -89,6 +105,7 @@ Finally, if you want some sort of indicator as to how your modlist should be ord
 
 ### Warfare Mods [OPTIONAL]
 [Warfare ALife Overhaul](https://www.moddb.com/mods/stalker-anomaly/addons/warfare-alife-overhaul)  
+![Warfare ALife Overhaul Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/WALOTUT.png)  
 [Hawkie's Warfare Mechanic Fix](https://www.moddb.com/mods/stalker-anomaly/addons/hawkies-warfare-mechanic-fix)
 
 ### ReShade [OPTIONAL]
