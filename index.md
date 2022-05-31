@@ -60,7 +60,7 @@ Then, extract the contents of the [Mod Organizer 2](https://github.com/ModOrgani
 ![EFT Weapon Reposition Updated Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/EFTWRTUT.png)  
 [Lowered Sprinting Animations](https://www.moddb.com/mods/stalker-anomaly/addons/lowered-weapon-sprint-animation)
 [Sights Without Dirt/Clean Sights](https://www.moddb.com/mods/stalker-anomaly/addons/sights-without-dirt-clean-sights)  
-[Shader Based 2D Scopes](https://www.moddb.com/mods/stalker-anomaly/addons/shader-based-2d-scopes-151dx11engine-mod)
+[Shader Based 2D Scopes](https://www.moddb.com/mods/stalker-anomaly/addons/shader-based-2d-scopes-151dx11engine-mod)  
 ![Shader Based 2D Scopes Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/SB2DSTUT.png)  
 
 ### Gameplay
