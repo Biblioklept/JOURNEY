@@ -174,7 +174,8 @@ To begin, you will need to download the [Anomaly Modded EXE Files](https://githu
 [T.H.A.P. Rework](https://www.moddb.com/mods/stalker-anomaly/addons/thap-rework)  
 ![T.H.A.P. Rework Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/THAPTUT.png)  
 [Food, Drug and Drinks Animations](https://www.moddb.com/mods/stalker-anomaly/addons/food-drug-and-drinks-animations-reuploaded)  
-![FDDA Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/FDDATUT.png)
+![FDDA Installation Tutorial Image](https://raw.githubusercontent.com/Biblioklept/JOURNEY/gh-pages/img/tutorialimgs/FDDATUT.png)  
+[Asnen's and Grok's Better Cigarettes Animations](https://www.moddb.com/mods/stalker-anomaly/addons/asnen-and-grok-better-cigarettes-animation)
 
 ## Gunplay
 [EFT Weapon Reposition Updated](https://www.moddb.com/mods/stalker-anomaly/addons/alternate-aim-sights-for-eft-reposition)  
